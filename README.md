@@ -117,6 +117,7 @@ Execute the program using runserver command.
         </html>
  ```
  ## OUTPUT
-/home/sec/fwad/ex03/timetable/Screenshots/Screenshot from 2023-11-24 21-44-42.png
+ ![image](https://github.com/RESHMA22C/timetable/assets/147474426/272becdb-18d7-43d3-a0fc-792a2bb1f60e)
+
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
