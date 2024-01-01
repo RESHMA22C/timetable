@@ -6,6 +6,7 @@ To Write a html webpage page to display your timetable.
 # ALGORITHM
 ### STEP 1
 Create a Django-admin Interface.
+
 ### STEP 2
 create a static folder and inert HTML code.
 ### STEP 3
